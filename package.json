@@ -6,7 +6,7 @@
     "author": "Bruno Barbosa",
     "license": "MIT",
     "scripts": {
-        "start": "node scr/server.js",
+        "start": "node src/server.js",
         "dev": "nodemon src/server.js"
     },
     "devDependencies": {
